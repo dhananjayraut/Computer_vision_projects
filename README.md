@@ -1,14 +1,7 @@
-# Pytorch_CV_examples
-examples of solving Computer vision problems with pytorch  
-## 1) Image classification using pretrained model
-* above 97% accuracy model
-* dataset looks like  
-![dataset_image](https://github.com/dhananjayraut/Pytorch_CV_examples/blob/master/Image%20classification/dataset_image.png)
+# Pytorch Computer Vision examples
+examples of projects about Computer vision done by me 
+## 1) [Image classification using pretrained model](https://github.com/dhananjayraut/Pytorch_CV_examples/tree/master/Image%20classification)
 ___
-## 2) Single object localization 
-* no pretrained model
-* data augmentation
-
-
+## 2) [Single object localization](https://github.com/dhananjayraut/Pytorch_CV_examples/tree/master/single-object-localization) 
 ___
-## 3) Simple-DCGAN for images of flowers
+## 3) [Simple DCGAN for images of flowers](https://github.com/dhananjayraut/Pytorch_CV_examples/tree/master/Simple-GAN)
