@@ -1,9 +1,8 @@
-# Pytorch_CV_examples
-examples of solving Computer vision problems with pytorch  
+# Image classification using pretrained model
+<br>
+dataset looks like this <br/> 
+![dataset_image](./dataset_image.png)  <br/>
+ Used Pretrained Resnet and retrained it for classification task.<br/>
+ Accuracy above 97% <br/>
+ dataset [link](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)  <br/>
 
-1) Image classification using pretrained model
-
-dataset looks like this
-![dataset_image](/image%20classification/dataset_image.png)
-
-2) Single object localization 
