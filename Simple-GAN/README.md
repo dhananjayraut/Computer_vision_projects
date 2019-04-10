@@ -1,7 +1,7 @@
 # DC-GAN using Pytorch
-## 1) dataset used is dataset of 102 different flower species images <br/>
-## 2) Architecture <br/>
-### Discriminator <br/>
+### 1) dataset used is dataset of 102 different flower species images <br/>
+### 2) Architecture <br/>
+#### Discriminator <br/>
 <pre>
 Discriminator(
   (main): Sequential(
@@ -21,7 +21,7 @@ Discriminator(
   )
 )
 </pre>
-### Generator <br/>
+#### Generator <br/>
 <pre>
 Generator(
   (main): Sequential(
@@ -42,4 +42,4 @@ Generator(
   )
 )
 </pre>
-## 3) Dataset [link](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
+### 3) Dataset [link](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
