@@ -5,5 +5,3 @@ discriptions are inside each folder.
 ##  [Single object localization](https://github.com/dhananjayraut/Pytorch_CV_examples/tree/master/single-object-localization) 
 
 ##  [Simple DCGAN for images of flowers](https://github.com/dhananjayraut/Pytorch_CV_examples/tree/master/Simple-GAN)
-___
-___
