@@ -1,6 +1,4 @@
-# Pytorch Computer Vision examples
-
-examples of Computer vision projects done by me.
+# Pytorch Computer Vision projects
 
 ## [Image classification using pretrained model](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Image%20classification)
 
