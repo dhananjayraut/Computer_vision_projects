@@ -1,11 +1,11 @@
 # Pytorch Computer Vision projects
 
-## [Image classification using pretrained model](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Image%20classification)
+### 1) [Image classification using pretrained model](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Image%20classification)
 
-## [Single object localization](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Single-object-localization)
+### 2) [Single object localization](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Single-object-localization)
 
-## [Simple DCGAN for images of flowers](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Simple%20DCGAN)
+### 3) [Simple DCGAN for images of flowers](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Simple%20DCGAN)
 
-## [Multilabel fine grained classification](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Multi%20label%20classification)
+### 4) [Multilabel fine grained classification](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Multi%20label%20classification)
 
-## [Image Segmentation](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Image%20Segmentation)
+### 5) [Image Segmentation](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Image%20Segmentation)
