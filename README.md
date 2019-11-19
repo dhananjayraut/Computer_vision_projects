@@ -9,3 +9,5 @@ examples of Computer vision projects done by me.
 ## [Simple DCGAN for images of flowers](https://github.com/dhananjayraut/Pytorch_CV_examples/tree/master/Simple-GAN)
 
 ## [Multilabel fine grained classification](https://github.com/dhananjayraut/Pytorch_CV_examples/tree/master/Multi%20label%20classification)
+
+## [Image Segmentation](https://github.com/dhananjayraut/Computer_vision_projects/tree/master/Image%20Segmentation)
