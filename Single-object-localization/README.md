@@ -5,4 +5,4 @@
 #### 4) rank in top 30 among 6000+ participants in the contest. <br/>
 #### 5) No pretrained model was allowed so trained resnet34 from scratch
 #### 5) example output <br/>
-![example](https://github.com/dhananjayraut/Pytorch_CV_examples/blob/master/single-object-localization/exaple_output.png)
+![example](https://github.com/dhananjayraut/Computer_vision_projects/blob/master/Single-object-localization/exaple_output.png)
